@@ -19,8 +19,6 @@ An application that lets you scan and grade OMR sheets quickly.
 ![bit_masking_1](https://github.com/suryakamalog/omr-model/blob/master/readmeImages/evaluation_using_bitmasking_1.gif)
 ![bit_masking_1](https://github.com/suryakamalog/omr-model/blob/master/readmeImages/evaluation_using_bitmasking_2.gif)
 #### 6. Result
-![result](https://github.com/suryakamalog/omr-model/blob/master/readmeImages/model_flowchart.png)
-
 ![result](https://github.com/suryakamalog/omr-model/blob/master/readmeImages/result.png)
 
 
