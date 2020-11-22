@@ -1,13 +1,5 @@
 # OMRScan
-An application that lets you scan and grade OMR sheets quickly.
-
-## Features
-* Scan multiple OMR sheets at once.
-* Handle multiple subjects through single app.
-* Store all results in a downloadable format.
-* Rescan of same paper won't create unnecessary documents.
-* Change actual answers of question paper anytime.
-* Easy re-evaluation process.
+Python model built with OpenCV that lets you scan and grade OMR sheets quickly.
 
 
 ## Working of model
@@ -32,7 +24,6 @@ An application that lets you scan and grade OMR sheets quickly.
 
 ## Installation
 ### Install Dependencies
-
 
 ```bash
 pip install opencv-python
