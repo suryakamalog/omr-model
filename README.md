@@ -1,3 +1,5 @@
+To see the mobile application built using this model [Click here](https://github.com/sharmajsr/omr-app1)
+
 # OMRScan
 Python model built with OpenCV that lets you scan and grade OMR sheets quickly.
 
